@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="BloodSplashes.png" width="400" height="321">
+  <SubTexture name="Splash06" x="0" y="0" width="132" height="241" rotated="true"  frameX="-1" frameY="-18" frameWidth="242" frameHeight="150"/>
+  <SubTexture name="Splash00" x="0" y="241"  width="99" height="64" frameX="-71" frameY="-43" frameWidth="242" frameHeight="150"/>
+  <SubTexture name="Splash01" x="0" y="241"  width="99" height="64" frameX="-71" frameY="-43" frameWidth="242" frameHeight="150"/>
+  <SubTexture name="Splash08" x="132" y="0"  width="241" height="83" frameX="-0" frameY="-38" frameWidth="242" frameHeight="150"/>
+  <SubTexture name="Splash04" x="132" y="83" width="140" height="238" rotated="true"  frameX="-2" frameY="-4" frameWidth="242" frameHeight="150"/>
+  <SubTexture name="Splash02" x="272" y="83" width="128" height="217" rotated="true"  frameX="-13" frameY="-0" frameWidth="242" frameHeight="150"/>
+  <SubTexture name="Splash03" x="272" y="83" width="128" height="217" rotated="true"  frameX="-13" frameY="-0" frameWidth="242" frameHeight="150"/>
+  <SubTexture name="Splash05" x="132" y="83" width="140" height="238" rotated="true"  frameX="-2" frameY="-4" frameWidth="242" frameHeight="150"/>
+  <SubTexture name="Splash07" x="0" y="0" width="132" height="241" rotated="true"  frameX="-1" frameY="-18" frameWidth="242" frameHeight="150"/>
+  <SubTexture name="Splash09" x="132" y="0"  width="241" height="83" frameX="-0" frameY="-38" frameWidth="242" frameHeight="150"/>
+</TextureAtlas>
